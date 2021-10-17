@@ -1,6 +1,6 @@
 # Olá, meu nome é Reginaldo Pinheiro 
 
-### Atuamente aspirante a Dev Front end e Back end.
+### Atuamente aspirante a Dev Front end.
 
 #### Redes Sociais
 [![linkdin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/reginaldo-pinheiro-4aa385161/)
