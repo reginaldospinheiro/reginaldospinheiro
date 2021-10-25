@@ -7,6 +7,8 @@
 [![instagran](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/reginaldospinheiro/)
 
 ![Reginaldo's GitHub stats](https://github-readme-stats.vercel.app/api?username=reginaldospinheiro&show_icons=true&theme=merko)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=reginaldospinheiro&layout=compact)](https://github.com/reginaldospinheiro/github-readme-stats)
+
 
 ### Minhas Skills
 
@@ -17,6 +19,7 @@
   <img align="center" alt="MARKDOWN" src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=whit" />
   
 <div/>
+  
 
 
 
