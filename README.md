@@ -6,7 +6,7 @@
 [![linkdin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/reginaldo-pinheiro-4aa385161/)
 [![instagran](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/reginaldospinheiro/)
 
-<br>
+
 ![Reginaldo's GitHub stats](https://github-readme-stats.vercel.app/api?username=reginaldospinheiro&show_icons=true&theme=merko)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=reginaldospinheiro&layout=compact)](https://github.com/reginaldospinheiro/github-readme-stats)
 
