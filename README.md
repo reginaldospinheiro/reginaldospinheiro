@@ -69,9 +69,21 @@
      <img align="center" alt="Node.JS" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"/>
    </div>
 
+### Cloud Computing Service
+   <div>
+     <img align="center" alt="Azure" src="https://img.shields.io/badge/Azure-blue?style=for-the-badge&logo=microsoft%20azure&logoColor=blue&labelColor=FFFFFF&link=https%3A%2F%2Fimages.app.goo.gl%2FK7PN1jYJd57x4q7A8"/>
+   </div>
+
+### Produção
+   <div>
+     <img align="center" alt="PowerBI" src="https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+     <img align="center" alt="PowerBI" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+      <img align="center" alt="PowerBI" src="https://img.shields.io/badge/Microsoft_SharePoint-0078D4?style=for-the-badge&logo=microsoft-sharepoint&logoColor=white"/>
+   </div>
 
 
-  <div/>
+
+
   
 
 
