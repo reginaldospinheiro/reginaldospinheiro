@@ -3,7 +3,7 @@
 ##### Trabalho a 8 anos na área de tecnologia com foco em infraestrutura e suporte ao usuário.
 ##### Agora busco novos desafios e estou focado em FullStack.
 
-### Minhas redes Sociais
+### Minhas redes
 
 [![linkdin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/reginaldo-pinheiro-4aa385161/)
 [![instagran](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/reginaldospinheiro/)
